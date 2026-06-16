@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-eterno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Calor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-eterno/) |
+| **Get License** | [Secure Licensing Rights for Calor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-eterno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit c4057eaeaac5f3d60051fd27a935781b3a07bcd6
+> Mami, la noche está pidiendo tu calor.. yeah..
+> Tus ojos brillan más que el humo y el alcohol.. oh, no..
+> Tú y yo perdiéndonos sin ver el reloj.. sin ver, baby..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
