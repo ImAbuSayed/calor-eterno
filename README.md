@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-eterno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Calor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-eterno/) |
+| **Get License** | [Music Rights & Licensing for Calor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-eterno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `30cea2a164143e092cf8518c191f1dc82a6f0fadedd23dffe7d3bad61a512c0d` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

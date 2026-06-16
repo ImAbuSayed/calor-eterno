@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Calor eterno
+
+This log tracks the cryptographic history and versioning for the song **Calor eterno** (calor-eterno).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T23:01:00.368640 | `v1` | `30cea2a164143e092cf8518c191f1dc82a6f0fadedd23dffe7d3bad61a512c0d` | `c9fd9aa7d9707622a8c41de7b2f46c87f9a6594d1860654bdb4e53072e408a84` | `2026-06-16_calor-eterno-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
